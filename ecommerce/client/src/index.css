@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+@layer components {
+  .product-image-container {
+    @apply w-full aspect-[4/5] overflow-hidden flex items-center justify-center bg-gray-100;
+  }
+  .product-image {
+    @apply w-full h-full object-contain mix-blend-multiply p-4;
+  }
+  .outfit-image-container {
+    @apply w-full aspect-[3/4] overflow-hidden flex flex-col bg-gray-100;
+  }
+}

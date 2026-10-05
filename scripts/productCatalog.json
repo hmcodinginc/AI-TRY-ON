@@ -1,0 +1,15 @@
+[
+  { "productId": "P-1001", "name": "Brown Casual Shirt",      "category": "Shirts",   "subcategory": "Casual",  "gender": "men",   "color": "Brown", "imageFile": "my-new-brown-shirt.jpg" },
+  { "productId": "P-1002", "name": "White Oxford Shirt",      "category": "Shirts",   "subcategory": "Formal",  "gender": "men",   "color": "White", "imageFile": "P-1002-white-oxford-shirt.jpg" },
+  { "productId": "P-1003", "name": "Black Slim Shirt",        "category": "Shirts",   "subcategory": "Formal",  "gender": "men",   "color": "Black", "imageFile": "P-1003-black-slim-shirt.jpg" },
+  { "productId": "P-2001", "name": "White Oversized T-Shirt", "category": "T-Shirts", "subcategory": "Casual",  "gender": "unisex","color": "White", "imageFile": "P-2001-white-oversized-tshirt.jpg" },
+  { "productId": "P-2002", "name": "Black Basic T-Shirt",     "category": "T-Shirts", "subcategory": "Basics",  "gender": "unisex","color": "Black", "imageFile": "P-2002-black-basic-tshirt.jpg" },
+  { "productId": "P-3001", "name": "Blue Straight Jeans",     "category": "Jeans",    "subcategory": "Straight","gender": "women", "color": "Blue",  "imageFile": "P-3001-blue-straight-jeans.jpg" },
+  { "productId": "P-3002", "name": "Black Slim Jeans",        "category": "Jeans",    "subcategory": "Slim",    "gender": "women", "color": "Black", "imageFile": "P-3002-black-slim-jeans.jpg" },
+  { "productId": "P-4001", "name": "Beige Chinos",            "category": "Pants",    "subcategory": "Chinos",  "gender": "men",   "color": "Beige", "imageFile": "P-4001-beige-chinos.jpg" },
+  { "productId": "P-4002", "name": "Black Formal Trousers",   "category": "Pants",    "subcategory": "Formal",  "gender": "men",   "color": "Black", "imageFile": "P-4002-black-formal-trousers.jpg" },
+  { "productId": "P-5001", "name": "Denim Jacket",            "category": "Jackets",  "subcategory": "Denim",   "gender": "unisex","color": "Blue",  "imageFile": "P-5001-denim-jacket.jpg" },
+  { "productId": "P-5002", "name": "Black Bomber Jacket",     "category": "Jackets",  "subcategory": "Bomber",  "gender": "unisex","color": "Black", "imageFile": "P-5002-black-bomber-jacket.jpg" },
+  { "productId": "P-6001", "name": "Black Summer Dress",      "category": "Dresses",  "subcategory": "Summer",  "gender": "women", "color": "Black", "imageFile": "P-6001-black-summer-dress.jpg" },
+  { "productId": "P-6002", "name": "Floral Midi Dress",       "category": "Dresses",  "subcategory": "Midi",    "gender": "women", "color": "Multi", "imageFile": "P-6002-floral-midi-dress.jpg" }
+]

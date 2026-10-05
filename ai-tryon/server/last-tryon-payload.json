@@ -1,0 +1,20 @@
+{
+  "endpoint": "/tryon",
+  "personParam": "dict",
+  "payloadKeys": [
+    "dict",
+    "garm_img",
+    "garment_des",
+    "is_checked",
+    "is_checked_crop",
+    "denoise_steps",
+    "seed"
+  ],
+  "personFile": "D:\\hm-intership\\AI_Try_On\\fashion-ai-demo\\storage\\temp_1791027369541_69a79e7174e06.jpg",
+  "garm_img": "D:\\hm-intership\\AI_Try_On\\fashion-ai-demo\\storage\\temp_1791027369741_18030ce2c1efe.jpg",
+  "garment_des": "Brown Casual Shirt, Brown, Shirts",
+  "is_checked": true,
+  "is_checked_crop": false,
+  "denoise_steps": 20,
+  "seed": 42
+}
