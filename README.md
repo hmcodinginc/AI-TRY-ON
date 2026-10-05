@@ -63,11 +63,3 @@ npm run dev  # Runs the frontend on port 5174
 - **Background Eraser**: Ensures user uploaded images are clipped perfectly for accurate API requests.
 - **Provider API**: Currently supports zero-GPU spaces and dedicated HuggingFace APIs for inference.
 
-## 🤝 Contributing
-1. Create a feature branch (`git checkout -b feature/amazing-feature`)
-2. Commit your changes (`git commit -m 'Add amazing feature'`)
-3. Push to the branch (`git push origin feature/amazing-feature`)
-4. Open a Pull Request
-
----
-*Happy Coding!* 🚀
